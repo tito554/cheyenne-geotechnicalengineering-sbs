@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Cheyenne
+
+> Geotechnical engineering services in Cheyenne, United States.
+
+## Services
+- [Anchors](https://cheyenne.geotechnicalengineering.sbs/anchors/)
+- [Atterberg Limits](https://cheyenne.geotechnicalengineering.sbs/atterberg-limits/)
+- [Cbr Road](https://cheyenne.geotechnicalengineering.sbs/cbr-road/)
+- [Cpt Test](https://cheyenne.geotechnicalengineering.sbs/cpt-test/)
+- [Deep Excavations](https://cheyenne.geotechnicalengineering.sbs/deep-excavations/)
+- [Excavation Monitoring](https://cheyenne.geotechnicalengineering.sbs/excavation-monitoring/)
+- [Excavations](https://cheyenne.geotechnicalengineering.sbs/excavations/)
+- [Flexible Pavement](https://cheyenne.geotechnicalengineering.sbs/flexible-pavement/)
+- [Footings](https://cheyenne.geotechnicalengineering.sbs/footings/)
+- [Foundations](https://cheyenne.geotechnicalengineering.sbs/foundations/)
+- [Grain Size](https://cheyenne.geotechnicalengineering.sbs/grain-size/)
+- [Ground Improvement](https://cheyenne.geotechnicalengineering.sbs/ground-improvement/)
+- [Grouting](https://cheyenne.geotechnicalengineering.sbs/grouting/)
+- [In Situ Permeability](https://cheyenne.geotechnicalengineering.sbs/in-situ-permeability/)
+- [Investigation](https://cheyenne.geotechnicalengineering.sbs/investigation/)
+- [Lab In Situ](https://cheyenne.geotechnicalengineering.sbs/lab-in-situ/)
+- [Laboratory](https://cheyenne.geotechnicalengineering.sbs/laboratory/)
+- [Liquefaction](https://cheyenne.geotechnicalengineering.sbs/liquefaction/)
+- [Masw](https://cheyenne.geotechnicalengineering.sbs/masw/)
+- [Mat Foundations](https://cheyenne.geotechnicalengineering.sbs/mat-foundations/)
+- [Piles](https://cheyenne.geotechnicalengineering.sbs/piles/)
+- [Proctor Tests](https://cheyenne.geotechnicalengineering.sbs/proctor-tests/)
+- [Resistivity](https://cheyenne.geotechnicalengineering.sbs/resistivity/)
+- [Retaining Walls](https://cheyenne.geotechnicalengineering.sbs/retaining-walls/)
+- [Rigid Pavement](https://cheyenne.geotechnicalengineering.sbs/rigid-pavement/)
+- [Road Geotechnics](https://cheyenne.geotechnicalengineering.sbs/road-geotechnics/)
+- [Sand Cone Density](https://cheyenne.geotechnicalengineering.sbs/sand-cone-density/)
+- [Seismic](https://cheyenne.geotechnicalengineering.sbs/seismic/)
+- [Seismic Isolation](https://cheyenne.geotechnicalengineering.sbs/seismic-isolation/)
+- [Seismic Microzonation](https://cheyenne.geotechnicalengineering.sbs/seismic-microzonation/)
+- [Seismic Refraction](https://cheyenne.geotechnicalengineering.sbs/seismic-refraction/)
+- [Slope Stability](https://cheyenne.geotechnicalengineering.sbs/slope-stability/)
+- [Slopes](https://cheyenne.geotechnicalengineering.sbs/slopes/)
+- [Soft Ground Tunnels](https://cheyenne.geotechnicalengineering.sbs/soft-ground-tunnels/)
+- [Spt Drilling](https://cheyenne.geotechnicalengineering.sbs/spt-drilling/)
+- [Stone Columns](https://cheyenne.geotechnicalengineering.sbs/stone-columns/)
+- [Test Pits](https://cheyenne.geotechnicalengineering.sbs/test-pits/)
+- [Triaxial](https://cheyenne.geotechnicalengineering.sbs/triaxial/)
+- [Vibrocompaction](https://cheyenne.geotechnicalengineering.sbs/vibrocompaction/)
+
+## Contact
+- Website: https://cheyenne.geotechnicalengineering.sbs/
+
+## About
+This site provides geotechnical engineering services in Cheyenne, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
